@@ -13,7 +13,7 @@ import { HandlebarsAdapter } from '@nestjs-modules/mailer/dist/adapters/handleba
         host: 'smtp.sendgrid.net',
         auth: {
           user: 'apikey',
-          pass: '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',
+          pass: 'fdsfds',
         },
       },
       template: {
